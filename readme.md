@@ -1,15 +1,15 @@
-Hands-on Scala.js
+Scala.js 사용해보기
 =================
 
-Source code for [lihaoyi.github.io/hands-on-scala-js](http://lihaoyi.github.io/hands-on-scala-js)
+[lihaoyi.github.io/hands-on-scala-js](http://lihaoyi.github.io/hands-on-scala-js) 를 위한 소스코드 입니다.
 
-To build, 
+빌드 하려면, 
 
 ```
 sbt book/run
 ```
 
-And look in
+그리고 다음을 찾아보세요.
 
 ```
 book/target/output/index.html
